@@ -6,4 +6,5 @@ public with sharing class Calculator {
         return a + b;
     }
 
+
 }
