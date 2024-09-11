@@ -8,5 +8,4 @@ public with sharing class Calculator {
     Public integer Sub(integer a, integer b){
         return a - b;
     }
-
 }
